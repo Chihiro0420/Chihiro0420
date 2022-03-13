@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal project(creating eCommerce website)**
 - 🌱 I’m currently learning **Python!**
-- ⚡ Fun fact [Hiking🥾 Yoga🧘‍♀️ Coffee lover☕️](Hiking🥾 Yoga🧘‍♀️ Coffee lover☕️)
+- ⚡ Fun fact **Hiking🥾 Travel✈️ Yoga🧘‍♀️ Coffee lover☕️**
 
 <h3 align="left">Connect with me:</h3>
 <p align='left'>
@@ -11,7 +11,7 @@
   <a href="mailto:chihiro.eibi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">✏️ Languages and Tools:</h3>
 <hr>
 <div>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -33,7 +33,7 @@
 
 <hr>
 
-<h4>🌱  I'm currently learning...</h4>
+<h3>🌱 I'm currently learning...</h3>
 <p >
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
