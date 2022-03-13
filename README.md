@@ -6,9 +6,9 @@
 - ⚡ Fun fact [Hiking🥾 Yoga🧘‍♀️ Coffee lover☕️](Hiking🥾 Yoga🧘‍♀️ Coffee lover☕️)
 
 <h3 align="left">Connect with me:</h3>
-<p align='center'>
+<p align='left'>
   <a href="https://www.linkedin.com/in/chihiro-eibi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chihiro.eibi@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:chihiro.eibi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
