@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chihiro</h1>
-<h3 align="center">A web developer live in Auckland, New Zealand and I am currently looking for new job opportunities </h3>
+<h1 align="left">Hi! I'm Chihiro</h1>
+<h3 align="left">A web developer live in Auckland, New Zealand and I am currently looking for new job opportunities </h3>
 
 - I’m currently working on **my personal project(creating eCommerce website)**
 - Fun fact **Hiking, Travel, Yoga,Coffee lover**
