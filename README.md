@@ -5,14 +5,9 @@
 - 🌱 I’m currently learning **Python!**
 - ⚡ Fun fact **Hiking🥾 Travel✈️ Yoga🧘‍♀️ Coffee lover☕️**
 
-<h3 align="left">Connect with me:</h3>
-<p align='left'>
-  <a href="https://www.linkedin.com/in/chihiro-eibi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chihiro.eibi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+
 
 <h3 align="left">✏️ Languages and Tools:</h3>
-<hr>
 <div>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -34,12 +29,15 @@
 <hr>
 
 <h3>🌱 I'm currently learning...</h3>
-<p >
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
 
 
-
+<h4 align="left">Connect with me:</h3>
+<p align='left'>
+  <a href="https://www.linkedin.com/in/chihiro-eibi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chihiro.eibi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 
 
