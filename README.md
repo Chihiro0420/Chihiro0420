@@ -7,7 +7,7 @@
 
 
 
-<h3 align="left">✏️ Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <div>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -28,7 +28,7 @@
 
 <hr>
 
-<h3>🌱 I'm currently learning...</h3>
+<h3>I'm currently learning...</h3>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
 
